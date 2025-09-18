@@ -3,7 +3,7 @@ Trainable Binary Quadratic Model based on Factorization Machine (FMBQM)
 """
 
 import numpy as np
-from mxnet import nd
+# from mxnet import nd
 from dimod.binary_quadratic_model import BinaryQuadraticModel
 from dimod.vartypes import Vartype, as_vartype
 from dimod import BQM
